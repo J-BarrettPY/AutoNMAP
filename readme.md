@@ -30,4 +30,4 @@ Contributions made by Jest.
 AUTO-NMAP is intended for legal and ethical use only. Users are responsible for complying with all applicable laws and regulations in their respective jurisdictions.
 
 ## License
-Distributed under the MIT License. See `LICENSE` file for more information.
+Distributed under the MIT License. 
